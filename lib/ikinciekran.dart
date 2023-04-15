@@ -41,7 +41,7 @@ class _ikinciekran extends State<ikinciekran> {
       bottomNavigationBar: BottomNavigationBar(
         backgroundColor: Colors.purpleAccent,
         items: const <BottomNavigationBarItem>[
-          BottomNavigationBarItem(icon: Icon(Icons.location_city, color: Colors.purpleAccent,), label: 'Şehirler',),
+          BottomNavigationBarItem(icon: Icon(Icons.location_city, color: Colors.purpleAccent,), label: 'Şehirler' ,),
           BottomNavigationBarItem(icon: Icon(Icons.photo, color: Colors.purpleAccent,), label: 'Beşeri ve Doğal Harikalar'),
           BottomNavigationBarItem(icon: Icon(Icons.favorite, color: Colors.purpleAccent,), label: 'Favori Şehirlerim'),
           BottomNavigationBarItem(icon: Icon(Icons.library_add_check_sharp, color: Colors.purpleAccent,), label: 'Gitmek İstediğim Yerler'),
